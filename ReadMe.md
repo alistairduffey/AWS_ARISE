@@ -1,5 +1,10 @@
 # Example notebooks using the AWS ARISE-SAI-1.5 simulations cloud archive 
 
+The ARISE-SAI-1.5k simulations (Richter et al., 2022; https://www.cesm.ucar.edu/community-projects/arise-sai) are available on Amazon Web Services (AWS), here: https://registry.opendata.aws/ncar-cesm2-arise/
+
+This repo contains python notebooks showing simple usage examples of this cloud archive. 
+
+
 ## Two notebooks: 
 
 #### (1) AWS_ARISE_basic_example.ipynb 
